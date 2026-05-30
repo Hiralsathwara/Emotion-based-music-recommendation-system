@@ -6,3 +6,5 @@ opencv-python-headless
 tensorflow
 keras
 collection
+pytest
+scikit-learn
